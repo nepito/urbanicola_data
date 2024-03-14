@@ -1,0 +1,3 @@
+Concepto,Fecha_Venta,Vencimiento,Status,Venta_Abono,Cliente,Prod_Serv,Cantidad,Pagado,Precio_Unit,Cuenta,Forma_Pago,Área,Folio_Factura,Emisión,Precio_Final,Descuento,Ingreso,Costo_Prod,Tipo_Entrega,Cost_Envío,Fech_Envío,Lug_Entrega,Fech_Entrega,Facturación,Ganancia,Margen,Status_Pago,No._Venta,Monto_Pdte.,Mes,Año,Registro,Verificación
+Venta,29/07/23,31/07/23,Pagada,NA,NA,NA,1,7100,7100,Efectivo,Efectivo,OBRA,NA,NA,7100,NA,7100,NA,En persona,200,04/08/23,NA,NA,NA,6900,97.2%,Pagada,1,NA,7,2023,29/07/23 13:47,NA
+Venta,27/07/23,27/07/23,Pagada,NA,CT INTERNACINOAL,NA,1,43441,37449.1,BAJIO,Transferencia,OBRA,8230,24/07/23,43441,0.0%,43441,NA,NA,NA,NA,NA,NA,Sí,43441,100.0%,Pagada,2,NA,7,2023,01/08/23 10:32,NA

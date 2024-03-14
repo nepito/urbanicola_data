@@ -17,4 +17,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Removed
 
+[unreleased]: https://github.com/IslasGECI/calling_rate_r/compare/v0.1.0...HEAD
 [0.1.0]: https://github.com/nepito/urbanicola_data/compare/v0.0.1...v0.1.0
+[0.0.1]: https://github.com/IslasGECI/calling_rate_r/releases/tag/v0.0.1

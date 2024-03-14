@@ -6,7 +6,7 @@ def add_offset(augend: int, addend: int) -> int:
     return augend + addend
 
 
-class Ventas(BaseModel):
+class Sales(BaseModel):
     concept: list[str]
     sales_date: list[datetime.date]
     expiration: list[datetime.date]

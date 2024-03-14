@@ -10,5 +10,6 @@ description-file = "README.md"
 home-page = "https://github.com/nepito/urbanicola_data"
 module = "urbanicola_data"
 requires = [
+    "pydantic"
 ]
 requires-python=">=3.9"

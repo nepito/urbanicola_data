@@ -2,10 +2,6 @@ import datetime
 from pydantic import BaseModel
 
 
-def add_offset(augend: int, addend: int) -> int:
-    return augend + addend
-
-
 class Sales(BaseModel):
     concept: list[str]
     sales_date: list[datetime.date]

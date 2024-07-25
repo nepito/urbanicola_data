@@ -6,6 +6,7 @@ RUN pip install --upgrade pip && pip install \
     flake8 \
     mutmut \
     mypy \
+    pandas \
     pylint \
     pytest \
     pytest-cov
